@@ -1,0 +1,11 @@
+blackies 2
+blackie 2
+blacky  2
+colored 1
+coloured 1
+coon    1
+darky   2
+darkies 2
+negro   1
+nigger  2
+niggers 2
